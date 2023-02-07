@@ -1,0 +1,23 @@
+{
+  "name": "itgamp01",
+  "version": "1.0.0",
+  "description": "es un entorno de prueba de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yemiliZ/itgamp01.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "@yemi_van",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yemiliZ/itgamp01/issues"
+  },
+  "homepage": "https://github.com/yemiliZ/itgamp01#readme"
+}
